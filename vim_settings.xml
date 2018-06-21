@@ -3,32 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1529605518465">
+      <file name="/Dummy.txt" timestamp="1529607699326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/pycham_proj/yibook/url_parser.py" timestamp="1529606152847">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
+      <file name="$USER_HOME$/Downloads/pycham_proj/yibook/url_parser.py" timestamp="1529607464306">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="10" column="16" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHJpbnQgbGVuKHRleHRzKQo=</text>
+      </register>
       <register name="1" type="8">
         <text encoding="base64">ICAgICAgICB0CiAgICAgICAgcA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
@@ -39,6 +42,7 @@
       <history-search />
       <history-cmd>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
